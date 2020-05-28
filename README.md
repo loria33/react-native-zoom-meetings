@@ -1,6 +1,6 @@
 
 # react-native-zoom-meetings
-# This is a fork from chaimPaneth/react-native-zoom-bridge who did 99% of the heavy lifting
+# This is a clone from chaimPaneth/react-native-zoom-bridge who did 99% of the heavy lifting
 # Zoom meetings android/ios
 
 <img width="200" alt="sample" src="images/Sample.png">
