@@ -1,0 +1,37 @@
+{
+  "name": "react-native-zoom-meetings",
+  "version": "1.0.24",
+  "description": "React-native bridge for ZoomUs video conference calls SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loria33/react-native-zoom-meetings.git"
+  },
+  "keywords": [
+    "react-native",
+    "Zoom MobileRTC SDK",
+    "zoom.us",
+    "video calls"
+  ],
+  "author": "chaimPaneth <chaim@chaimpaneth.com> (chaimpaneth.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "~15.4.0-rc.4",
+    "react-native": ">0.41.2"
+  },
+  "dependencies": {
+    "xcode": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/loria33/react-native-zoom-meetings/issues"
+  },
+  "homepage": "https://github.com/loria33/react-native-zoom-meetings#readme",
+  "rnpm": {
+    "commands": {
+      "postlink": "node node_modules/react-native-zoom-meetings/scripts/postlink"
+    }
+  }
+}
